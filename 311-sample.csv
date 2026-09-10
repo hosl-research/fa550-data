@@ -1,0 +1,901 @@
+borough,complaint,date,crew,hours,lat,lon,reopened
+Staten Is.,Parking,2024-10-16,1,49.8,40.5761,-74.1469,False
+Queens,Noise,2024-11-22,3,3.4,40.7107,-73.7198,False
+Queens,Noise,2024-08-19,5,4.4,40.6782,-73.7697,False
+Staten Is.,Water,2024-05-09,4,3.7,40.5627,-74.1294,False
+Manhattan,Street,2024-01-01,1,24.9,40.8231,-74.0169,False
+Queens,Parking,2024-02-08,5,8.7,40.7298,-73.7925,False
+Staten Is.,Street,2024-04-24,2,2.1,40.602,-74.1873,False
+Brooklyn,Parking,2024-08-14,4,9.3,40.6712,-73.9286,False
+Bronx,Parking,2024-08-28,4,10.1,40.8497,-73.8786,True
+Brooklyn,Street,2024-02-16,4,2.1,40.6439,-73.9506,False
+Brooklyn,Street,2024-04-04,3,2.5,40.6536,-73.9544,True
+Staten Is.,Water,2024-11-21,3,13.5,40.6001,-74.1693,False
+Staten Is.,Noise,2024-04-16,1,15.6,40.5937,-74.1974,False
+Bronx,Heat,2024-02-14,3,5.0,40.8648,-73.8544,False
+Manhattan,Heat,2024-03-30,2,0.7,40.7846,-74.0133,False
+Staten Is.,Parking,2024-05-12,2,3.4,40.5569,-74.1872,False
+Bronx,Noise,2024-06-30,1,32.4,40.8422,-73.8807,False
+Queens,Heat,2024-06-29,4,1.1,40.6918,-73.813,False
+Bronx,Heat,2024-02-08,5,1.9,40.8801,-73.8639,False
+Manhattan,Heat,2024-02-13,2,11.6,40.7169,-73.9415,False
+Staten Is.,Noise,2024-03-16,3,4.6,40.5735,-74.1443,False
+Brooklyn,Street,2024-04-26,3,3.5,40.7216,-73.9459,False
+Brooklyn,Parking,2024-12-18,1,10.4,40.6398,-73.9511,False
+Brooklyn,Parking,2024-04-10,4,16.5,40.616,-73.926,False
+Queens,Parking,2024-05-09,5,4.3,40.7195,-73.8471,False
+Brooklyn,Street,2024-09-17,3,5.4,40.6887,-73.9408,True
+Staten Is.,Noise,2024-05-03,1,26.1,40.5752,-74.1798,False
+Manhattan,Water,2024-12-25,2,16.8,40.7984,-74.0088,False
+Manhattan,Street,2024-06-26,1,43.1,40.783,-73.9716,False
+Manhattan,Heat,2024-05-12,5,2.5,40.7688,-73.9834,True
+Manhattan,Street,2024-10-08,5,4.6,40.8745,-73.9543,True
+Manhattan,Heat,2024-10-15,2,4.2,40.7821,-73.9387,False
+Manhattan,Noise,2024-08-29,2,1.1,40.7639,-74.0415,False
+Staten Is.,Parking,2024-02-21,5,2.9,40.5653,-74.1539,True
+Staten Is.,Noise,2024-04-17,1,25.1,40.5914,-74.093,True
+Queens,Parking,2024-07-30,4,7.6,40.7323,-73.7657,False
+Queens,Parking,2024-05-14,5,2.3,40.7432,-73.7484,False
+Queens,Noise,2024-06-06,3,2.2,40.7242,-73.7887,True
+Brooklyn,Parking,2024-04-13,4,2.1,40.6071,-73.9948,True
+Staten Is.,Parking,2024-04-15,4,10.3,40.596,-74.1855,False
+Manhattan,Parking,2024-06-25,5,11.0,40.7707,-73.9504,True
+Brooklyn,Water,2024-10-26,1,7.5,40.6414,-73.923,True
+Staten Is.,Parking,2024-05-13,4,6.3,40.5355,-74.1737,True
+Bronx,Noise,2024-09-29,2,10.1,40.8328,-73.8798,False
+Staten Is.,Noise,2024-12-24,5,7.2,40.5582,-74.1439,False
+Queens,Water,2024-02-18,5,5.8,40.7189,-73.8443,False
+Bronx,Noise,2024-12-03,2,11.9,40.8064,-73.8823,False
+Bronx,Heat,2024-04-16,3,13.2,40.8515,-73.8232,False
+Manhattan,Street,2024-02-05,3,20.2,40.7837,-73.9062,False
+Bronx,Water,2024-10-26,3,1.4,40.8164,-73.875,True
+Bronx,Parking,2024-01-03,5,7.9,40.8313,-73.8168,False
+Manhattan,Heat,2024-12-28,4,4.1,40.7543,-73.9875,False
+Staten Is.,Noise,2024-03-16,4,3.9,40.6072,-74.1761,False
+Manhattan,Street,2024-08-11,4,2.7,40.7042,-74.0389,False
+Staten Is.,Street,2024-04-01,2,37.7,40.5697,-74.1231,False
+Staten Is.,Water,2024-11-14,3,12.8,40.5302,-74.163,False
+Staten Is.,Street,2024-09-14,2,13.0,40.567,-74.0816,False
+Queens,Parking,2024-12-25,3,21.0,40.7454,-73.7818,False
+Manhattan,Parking,2024-10-15,1,30.9,40.7611,-73.9661,False
+Manhattan,Parking,2024-09-27,1,8.0,40.7842,-74.0259,False
+Brooklyn,Parking,2024-12-10,2,8.1,40.6247,-73.9067,False
+Manhattan,Noise,2024-08-23,2,15.4,40.8382,-73.9826,False
+Brooklyn,Street,2024-03-18,4,3.5,40.6774,-73.9566,True
+Brooklyn,Noise,2024-03-21,2,26.4,40.6838,-74.0179,False
+Staten Is.,Parking,2024-08-27,2,20.1,40.5402,-74.1239,False
+Bronx,Parking,2024-05-15,3,4.3,40.817,-73.8421,False
+Bronx,Water,2024-10-03,3,5.5,40.8824,-73.8899,True
+Bronx,Water,2024-08-15,5,3.7,40.8442,-73.8689,True
+Staten Is.,Heat,2024-01-15,3,14.2,40.5723,-74.1399,False
+Queens,Heat,2024-12-04,2,8.9,40.73,-73.7628,True
+Staten Is.,Heat,2024-12-21,2,12.9,40.5423,-74.1486,True
+Brooklyn,Heat,2024-04-20,3,4.4,40.6732,-73.9,False
+Queens,Noise,2024-04-13,5,2.5,40.7205,-73.799,False
+Brooklyn,Parking,2024-05-24,2,6.0,40.6644,-73.9699,False
+Manhattan,Street,2024-10-23,2,24.2,40.7599,-73.9857,False
+Bronx,Water,2024-01-09,3,6.4,40.8654,-73.9478,False
+Queens,Street,2024-03-06,4,6.4,40.6989,-73.8159,False
+Staten Is.,Heat,2024-09-11,5,5.0,40.6086,-74.1215,True
+Queens,Street,2024-06-01,2,25.4,40.7539,-73.7837,False
+Bronx,Water,2024-06-10,5,14.7,40.8774,-73.8962,False
+Manhattan,Heat,2024-12-08,5,6.6,40.7955,-73.9612,False
+Brooklyn,Water,2024-10-18,2,31.7,40.669,-74.0122,False
+Staten Is.,Street,2024-02-10,2,9.6,40.4988,-74.1602,False
+Staten Is.,Water,2024-03-26,2,23.2,40.605,-74.1359,False
+Bronx,Parking,2024-04-05,2,7.6,40.8418,-73.8507,False
+Manhattan,Parking,2024-08-28,5,4.4,40.7828,-73.9949,True
+Staten Is.,Noise,2024-06-05,2,7.5,40.5715,-74.1243,False
+Staten Is.,Parking,2024-09-02,3,4.9,40.5383,-74.0955,False
+Queens,Noise,2024-03-23,5,5.9,40.7038,-73.8044,False
+Queens,Heat,2024-06-18,4,0.6,40.7398,-73.7694,False
+Bronx,Street,2024-05-13,1,14.2,40.8925,-73.9184,True
+Queens,Heat,2024-03-09,1,8.6,40.7013,-73.8505,False
+Manhattan,Noise,2024-03-15,2,3.9,40.7529,-73.9532,False
+Bronx,Water,2024-05-27,5,4.3,40.8936,-73.8703,False
+Brooklyn,Street,2024-09-04,2,13.2,40.6235,-73.9456,False
+Manhattan,Parking,2024-09-28,2,2.1,40.8422,-73.9891,False
+Queens,Parking,2024-10-09,3,8.3,40.7215,-73.8004,False
+Manhattan,Street,2024-03-10,3,13.2,40.7535,-73.9473,False
+Queens,Parking,2024-07-30,1,7.4,40.7495,-73.74,False
+Staten Is.,Street,2024-02-02,1,54.8,40.6308,-74.1581,False
+Queens,Parking,2024-02-18,5,2.1,40.677,-73.8411,False
+Brooklyn,Water,2024-06-17,3,3.9,40.6968,-73.9133,False
+Queens,Heat,2024-09-12,2,2.1,40.7116,-73.7735,False
+Manhattan,Noise,2024-03-26,5,1.2,40.8246,-73.9511,True
+Bronx,Water,2024-03-03,3,12.6,40.8386,-73.8661,False
+Bronx,Parking,2024-10-19,5,3.8,40.8027,-73.8018,False
+Queens,Water,2024-08-06,1,35.4,40.7351,-73.7893,False
+Brooklyn,Heat,2024-10-25,3,6.9,40.6778,-73.9361,False
+Manhattan,Water,2024-02-01,5,12.2,40.8429,-74.0272,False
+Brooklyn,Street,2024-12-11,4,1.8,40.7017,-73.9689,False
+Brooklyn,Parking,2024-10-21,4,8.3,40.6709,-73.9722,False
+Bronx,Heat,2024-11-02,3,21.3,40.8429,-73.8724,False
+Brooklyn,Noise,2024-02-07,5,2.6,40.6344,-73.9411,True
+Staten Is.,Water,2024-08-24,2,3.0,40.5712,-74.174,True
+Manhattan,Water,2024-07-16,4,5.6,40.7551,-73.9196,True
+Brooklyn,Parking,2024-03-09,3,7.2,40.6418,-73.9835,False
+Manhattan,Noise,2024-11-30,2,5.6,40.7037,-73.9851,False
+Staten Is.,Water,2024-10-27,2,3.1,40.5854,-74.1444,False
+Brooklyn,Noise,2024-10-29,3,5.0,40.6491,-73.9891,True
+Manhattan,Heat,2024-09-22,2,8.8,40.857,-73.9544,True
+Manhattan,Noise,2024-03-05,3,11.6,40.8028,-73.9525,False
+Queens,Water,2024-09-29,4,3.3,40.7056,-73.8003,False
+Manhattan,Heat,2024-06-17,5,2.0,40.7969,-73.9142,True
+Queens,Street,2024-09-11,4,1.0,40.6832,-73.7891,False
+Manhattan,Noise,2024-08-05,3,11.1,40.7619,-73.9631,False
+Queens,Heat,2024-10-29,1,23.9,40.664,-73.8204,False
+Staten Is.,Water,2024-07-08,1,47.9,40.6231,-74.2018,True
+Bronx,Noise,2024-04-18,4,6.0,40.8678,-73.8905,False
+Manhattan,Street,2024-08-29,3,2.6,40.7447,-73.9812,False
+Manhattan,Heat,2024-09-02,5,12.0,40.7782,-73.9852,False
+Brooklyn,Street,2024-04-16,3,15.4,40.6785,-73.9285,False
+Brooklyn,Water,2024-07-07,3,5.7,40.6649,-74.0232,False
+Bronx,Street,2024-08-30,2,13.6,40.8615,-73.9056,False
+Manhattan,Noise,2024-05-03,1,38.4,40.7543,-74.0264,False
+Staten Is.,Parking,2024-03-03,1,7.0,40.5609,-74.1113,False
+Bronx,Water,2024-04-29,4,6.5,40.8529,-73.8885,False
+Manhattan,Parking,2024-10-31,3,0.4,40.8076,-73.987,False
+Staten Is.,Noise,2024-02-26,2,11.3,40.5551,-74.1846,False
+Staten Is.,Parking,2024-05-23,2,36.9,40.5464,-74.1245,False
+Brooklyn,Street,2024-06-28,4,2.6,40.6843,-73.9639,False
+Bronx,Parking,2024-10-17,2,3.9,40.8221,-73.8649,False
+Queens,Heat,2024-05-14,2,13.3,40.7523,-73.8526,False
+Bronx,Water,2024-12-28,2,6.9,40.8573,-73.8364,False
+Brooklyn,Parking,2024-06-02,4,9.1,40.6764,-73.9397,False
+Manhattan,Noise,2024-06-17,5,5.9,40.8323,-73.9549,False
+Staten Is.,Parking,2024-11-06,2,26.1,40.6007,-74.1144,True
+Bronx,Parking,2024-06-13,2,32.4,40.8733,-73.8773,False
+Queens,Water,2024-09-05,3,5.4,40.6925,-73.7965,True
+Manhattan,Street,2024-05-08,1,15.1,40.7591,-73.9499,False
+Bronx,Water,2024-09-05,3,17.3,40.8693,-73.8587,False
+Staten Is.,Street,2024-08-05,5,4.0,40.626,-74.1588,False
+Staten Is.,Parking,2024-12-25,4,2.7,40.6218,-74.1502,False
+Manhattan,Street,2024-05-25,1,21.0,40.8495,-73.9866,False
+Staten Is.,Noise,2024-03-20,2,10.9,40.5893,-74.13,False
+Queens,Water,2024-02-20,1,11.4,40.7261,-73.7634,False
+Staten Is.,Parking,2024-07-04,5,1.1,40.6102,-74.1513,False
+Staten Is.,Water,2024-07-01,2,2.8,40.5806,-74.095,True
+Manhattan,Noise,2024-02-03,2,15.4,40.7781,-74.0177,False
+Brooklyn,Street,2024-01-05,5,1.4,40.6186,-73.9585,False
+Bronx,Street,2024-05-23,2,30.3,40.8797,-73.82,False
+Manhattan,Street,2024-01-13,2,7.9,40.7478,-73.9841,False
+Bronx,Noise,2024-12-12,2,12.8,40.8654,-73.9195,False
+Queens,Water,2024-10-15,2,6.2,40.6774,-73.7495,True
+Staten Is.,Street,2024-02-01,1,6.2,40.6129,-74.1351,False
+Brooklyn,Noise,2024-10-11,4,8.8,40.6191,-73.9873,True
+Manhattan,Parking,2024-10-03,3,3.6,40.8053,-73.9482,False
+Bronx,Water,2024-09-21,5,3.6,40.8023,-73.9022,False
+Bronx,Heat,2024-11-11,4,16.7,40.8368,-73.9117,False
+Brooklyn,Noise,2024-09-14,2,9.9,40.6854,-73.956,False
+Staten Is.,Parking,2024-07-04,4,14.0,40.5558,-74.1659,False
+Staten Is.,Street,2024-09-21,5,8.2,40.582,-74.1844,True
+Queens,Water,2024-10-18,1,15.8,40.7056,-73.8024,True
+Manhattan,Water,2024-07-31,1,20.4,40.7107,-74.0016,False
+Manhattan,Noise,2024-06-09,1,7.7,40.7892,-73.9696,True
+Bronx,Parking,2024-07-28,1,45.3,40.863,-73.8721,True
+Brooklyn,Noise,2024-05-08,2,22.1,40.6168,-73.929,False
+Staten Is.,Parking,2024-05-27,4,4.6,40.5972,-74.1651,False
+Manhattan,Heat,2024-07-03,4,4.2,40.7561,-74.0115,False
+Brooklyn,Water,2024-09-30,2,16.9,40.6199,-73.9911,True
+Brooklyn,Noise,2024-03-12,3,13.2,40.6502,-73.9588,False
+Queens,Water,2024-06-06,4,2.5,40.6996,-73.7452,False
+Bronx,Street,2024-04-22,5,4.8,40.9188,-73.8459,False
+Staten Is.,Heat,2024-02-26,2,17.2,40.5334,-74.1707,False
+Staten Is.,Heat,2024-04-21,4,3.6,40.6022,-74.1231,False
+Manhattan,Water,2024-04-20,3,10.9,40.8097,-74.0063,False
+Manhattan,Street,2024-12-26,4,5.2,40.7206,-73.9409,False
+Queens,Heat,2024-05-21,5,8.3,40.668,-73.8029,False
+Manhattan,Parking,2024-05-02,4,3.2,40.7969,-73.9483,False
+Manhattan,Water,2024-05-24,2,8.2,40.7656,-73.9527,False
+Brooklyn,Parking,2024-03-24,4,7.9,40.6615,-73.9598,False
+Manhattan,Heat,2024-11-29,1,8.3,40.8142,-73.9616,False
+Queens,Parking,2024-12-09,2,4.4,40.7088,-73.8235,False
+Bronx,Street,2024-05-23,2,21.9,40.8181,-73.8736,False
+Bronx,Parking,2024-02-20,2,4.3,40.7681,-73.8388,True
+Queens,Parking,2024-01-07,5,2.7,40.7261,-73.6682,False
+Brooklyn,Heat,2024-12-18,3,14.5,40.6221,-73.9303,False
+Staten Is.,Heat,2024-10-30,1,28.1,40.5894,-74.1488,False
+Bronx,Parking,2024-11-07,3,10.0,40.8569,-73.9019,False
+Staten Is.,Water,2024-08-01,1,53.9,40.5385,-74.1195,False
+Bronx,Noise,2024-08-24,1,36.4,40.9017,-73.9212,False
+Manhattan,Street,2024-10-07,2,31.3,40.8125,-73.9955,False
+Staten Is.,Parking,2024-06-05,3,15.7,40.6054,-74.1406,False
+Bronx,Noise,2024-10-28,2,8.0,40.8145,-73.9077,False
+Queens,Parking,2024-03-12,4,0.7,40.7078,-73.7451,False
+Queens,Heat,2024-06-11,3,3.7,40.7036,-73.7585,False
+Manhattan,Street,2024-02-08,1,4.8,40.7676,-73.9885,False
+Bronx,Noise,2024-10-09,5,4.9,40.8163,-73.8881,True
+Manhattan,Water,2024-02-07,1,10.9,40.793,-74.0111,False
+Manhattan,Street,2024-07-02,2,3.6,40.7869,-74.0135,False
+Staten Is.,Noise,2024-05-07,1,20.1,40.591,-74.1381,False
+Queens,Heat,2024-12-28,5,1.0,40.7048,-73.7726,False
+Brooklyn,Water,2024-05-28,2,4.6,40.6887,-73.9408,False
+Bronx,Parking,2024-02-21,5,13.0,40.8556,-73.8634,False
+Manhattan,Noise,2024-12-03,5,3.1,40.6979,-73.9882,False
+Brooklyn,Water,2024-07-20,2,2.6,40.6308,-73.9405,False
+Queens,Heat,2024-07-14,1,33.5,40.7183,-73.8357,False
+Staten Is.,Noise,2024-08-19,1,21.0,40.609,-74.1511,False
+Brooklyn,Heat,2024-12-27,1,21.4,40.641,-73.907,False
+Staten Is.,Heat,2024-01-10,3,3.7,40.5725,-74.1116,False
+Manhattan,Parking,2024-09-20,1,9.9,40.7601,-73.9853,False
+Manhattan,Parking,2024-06-14,5,1.6,40.8,-73.9814,False
+Queens,Parking,2024-02-23,3,1.8,40.7066,-73.7499,False
+Queens,Street,2024-11-26,5,5.6,40.7019,-73.7376,False
+Staten Is.,Heat,2024-07-21,1,8.2,40.5577,-74.1964,False
+Staten Is.,Parking,2024-11-29,1,24.1,40.5967,-74.1642,False
+Bronx,Heat,2024-02-28,3,5.3,40.834,-73.8643,False
+Manhattan,Noise,2024-09-03,1,11.1,40.7297,-73.9347,False
+Staten Is.,Noise,2024-01-15,1,2.6,40.5987,-74.1766,True
+Brooklyn,Street,2024-12-25,1,25.6,40.629,-73.932,True
+Bronx,Heat,2024-12-10,2,11.2,40.8607,-73.8804,False
+Manhattan,Parking,2024-11-18,4,5.6,40.7912,-73.8998,False
+Queens,Heat,2024-05-03,4,8.2,40.7561,-73.7784,False
+Queens,Parking,2024-09-11,3,17.6,40.7513,-73.7954,True
+Staten Is.,Water,2024-03-10,1,39.4,40.5627,-74.1615,False
+Queens,Noise,2024-11-02,3,1.7,40.715,-73.7596,False
+Bronx,Water,2024-02-07,4,2.5,40.8113,-73.8509,False
+Staten Is.,Heat,2024-09-25,1,50.3,40.6303,-74.184,True
+Manhattan,Water,2024-08-26,3,13.0,40.7932,-73.9648,False
+Staten Is.,Street,2024-04-17,5,3.6,40.6218,-74.1917,False
+Staten Is.,Noise,2024-06-17,3,5.9,40.5704,-74.1741,False
+Staten Is.,Parking,2024-06-22,3,3.6,40.5185,-74.1903,True
+Bronx,Street,2024-01-05,5,13.2,40.896,-73.9113,False
+Staten Is.,Noise,2024-01-20,4,1.9,40.5828,-74.172,False
+Queens,Noise,2024-09-18,1,44.9,40.724,-73.8209,False
+Manhattan,Street,2024-09-07,4,6.4,40.7817,-73.9555,False
+Queens,Noise,2024-04-03,5,2.8,40.7393,-73.7674,False
+Staten Is.,Parking,2024-06-12,2,4.5,40.596,-74.1585,False
+Manhattan,Water,2024-10-11,5,10.2,40.7323,-74.0051,False
+Bronx,Street,2024-09-04,3,10.6,40.8826,-73.8471,False
+Queens,Parking,2024-06-27,4,13.8,40.7041,-73.8523,True
+Brooklyn,Parking,2024-11-11,2,22.2,40.636,-74.0095,True
+Brooklyn,Noise,2024-07-14,1,10.3,40.7018,-73.9294,True
+Bronx,Water,2024-01-02,1,16.9,40.8776,-73.8516,True
+Bronx,Street,2024-06-15,4,1.0,40.8399,-73.842,True
+Staten Is.,Water,2024-03-29,5,10.4,40.5243,-74.1578,False
+Brooklyn,Noise,2024-09-03,4,8.0,40.6548,-73.9893,False
+Bronx,Street,2024-02-08,2,6.5,40.8662,-73.8867,False
+Bronx,Parking,2024-12-27,4,6.2,40.8476,-73.8543,False
+Brooklyn,Water,2024-08-09,5,1.6,40.6126,-73.9744,True
+Brooklyn,Noise,2024-10-18,2,7.7,40.6263,-73.9725,False
+Brooklyn,Street,2024-06-17,1,26.6,40.6123,-73.9934,False
+Staten Is.,Water,2024-01-26,5,8.1,40.5865,-74.1864,False
+Staten Is.,Noise,2024-06-08,1,15.7,40.6046,-74.1259,True
+Manhattan,Parking,2024-06-29,5,3.5,40.8108,-73.9577,False
+Staten Is.,Street,2024-06-01,1,14.4,40.558,-74.1863,False
+Brooklyn,Street,2024-03-26,1,31.8,40.6571,-73.9839,False
+Bronx,Parking,2024-03-16,2,1.8,40.8666,-73.8883,False
+Brooklyn,Heat,2024-02-07,2,7.1,40.6347,-73.9348,False
+Bronx,Parking,2024-06-30,2,6.9,40.8455,-73.9065,False
+Staten Is.,Heat,2024-03-12,1,34.7,40.6437,-74.1564,True
+Brooklyn,Heat,2024-08-16,5,1.4,40.6562,-74.016,False
+Manhattan,Parking,2024-03-31,5,8.0,40.8065,-74.0092,False
+Brooklyn,Noise,2024-06-07,4,9.0,40.637,-73.9387,False
+Staten Is.,Heat,2024-12-16,5,8.6,40.5813,-74.1243,False
+Bronx,Street,2024-07-10,5,2.0,40.7986,-73.9062,False
+Manhattan,Noise,2024-09-28,5,2.1,40.7792,-73.9946,False
+Staten Is.,Water,2024-09-05,2,11.4,40.6158,-74.1273,False
+Manhattan,Parking,2024-11-07,4,3.1,40.843,-73.9831,True
+Staten Is.,Water,2024-01-21,4,3.3,40.6159,-74.1676,False
+Staten Is.,Heat,2024-09-12,4,5.4,40.6006,-74.1357,False
+Queens,Street,2024-03-27,4,6.0,40.7216,-73.7854,False
+Queens,Heat,2024-04-25,4,6.1,40.702,-73.7578,False
+Manhattan,Noise,2024-11-26,2,8.7,40.7752,-73.9474,False
+Manhattan,Noise,2024-05-22,3,4.2,40.7984,-73.9887,True
+Staten Is.,Parking,2024-07-07,1,8.8,40.5564,-74.1549,False
+Manhattan,Heat,2024-06-09,5,4.0,40.808,-73.9731,False
+Staten Is.,Water,2024-02-09,5,3.3,40.5505,-74.1922,False
+Staten Is.,Water,2024-04-17,4,4.4,40.5266,-74.1806,True
+Brooklyn,Water,2024-02-25,4,8.9,40.6196,-73.922,False
+Manhattan,Water,2024-06-02,2,5.6,40.73,-74.0191,True
+Queens,Heat,2024-01-01,2,29.1,40.6788,-73.7613,False
+Staten Is.,Noise,2024-10-08,3,5.3,40.614,-74.1427,False
+Bronx,Water,2024-07-14,2,21.0,40.844,-73.8755,False
+Bronx,Heat,2024-01-28,1,14.4,40.8566,-73.8551,False
+Brooklyn,Parking,2024-12-27,2,13.4,40.6847,-73.9369,False
+Manhattan,Parking,2024-04-10,4,4.4,40.8178,-73.9349,True
+Bronx,Water,2024-05-07,2,2.8,40.8349,-73.8833,False
+Manhattan,Parking,2024-06-23,4,6.7,40.8199,-73.9782,False
+Manhattan,Water,2024-07-14,3,2.3,40.7915,-73.9787,False
+Staten Is.,Water,2024-09-03,3,5.1,40.5801,-74.0946,False
+Queens,Water,2024-07-13,4,9.4,40.7333,-73.7628,False
+Brooklyn,Heat,2024-08-23,5,20.7,40.6072,-73.9791,False
+Queens,Heat,2024-04-23,5,2.4,40.6964,-73.8013,False
+Staten Is.,Water,2024-09-21,4,4.3,40.5768,-74.1725,False
+Queens,Heat,2024-11-07,1,31.0,40.7383,-73.7908,True
+Queens,Street,2024-02-08,2,11.7,40.7088,-73.7848,False
+Brooklyn,Noise,2024-02-13,3,17.3,40.6462,-73.8822,True
+Queens,Water,2024-03-06,1,13.7,40.7491,-73.8462,False
+Bronx,Parking,2024-04-30,3,19.0,40.8924,-73.8403,False
+Queens,Parking,2024-04-22,1,34.1,40.743,-73.7781,False
+Staten Is.,Water,2024-10-11,3,7.6,40.6181,-74.1723,False
+Staten Is.,Noise,2024-04-12,1,21.3,40.5679,-74.1557,False
+Brooklyn,Parking,2024-11-19,2,14.6,40.6408,-73.9661,True
+Brooklyn,Water,2024-10-02,2,18.2,40.6596,-73.9497,True
+Queens,Street,2024-12-09,5,3.2,40.711,-73.7609,False
+Brooklyn,Heat,2024-12-28,3,4.6,40.6348,-73.9969,True
+Queens,Street,2024-01-26,3,5.4,40.7696,-73.7517,False
+Brooklyn,Water,2024-09-06,5,2.9,40.644,-73.9624,False
+Bronx,Noise,2024-11-12,1,37.6,40.821,-73.8259,False
+Bronx,Street,2024-01-13,2,16.2,40.8646,-73.8588,False
+Manhattan,Water,2024-03-01,3,1.3,40.8351,-73.934,True
+Brooklyn,Street,2024-04-18,5,2.6,40.6524,-73.9341,False
+Brooklyn,Parking,2024-03-16,4,1.7,40.6869,-73.9185,False
+Staten Is.,Noise,2024-10-20,4,4.1,40.5669,-74.1494,False
+Staten Is.,Parking,2024-02-18,2,7.0,40.5653,-74.1761,False
+Staten Is.,Parking,2024-12-03,5,2.1,40.5593,-74.1309,False
+Manhattan,Water,2024-05-10,1,30.4,40.7757,-73.9497,False
+Bronx,Street,2024-08-05,3,4.6,40.9051,-73.8079,False
+Queens,Street,2024-05-29,2,11.4,40.6853,-73.8514,True
+Queens,Water,2024-05-07,1,16.3,40.7691,-73.797,False
+Staten Is.,Parking,2024-11-11,1,30.5,40.5497,-74.1191,False
+Manhattan,Water,2024-05-09,4,7.4,40.773,-74.0087,False
+Bronx,Parking,2024-12-23,5,3.1,40.8751,-73.8779,False
+Manhattan,Street,2024-08-19,2,13.2,40.7989,-73.9073,False
+Manhattan,Water,2024-05-11,1,22.0,40.7885,-73.9284,False
+Queens,Heat,2024-11-11,1,50.0,40.6705,-73.8175,False
+Brooklyn,Parking,2024-04-11,1,10.2,40.6609,-73.9081,True
+Brooklyn,Street,2024-05-04,4,5.7,40.6193,-73.9154,False
+Bronx,Water,2024-11-20,1,19.2,40.9271,-73.8476,False
+Staten Is.,Street,2024-03-10,4,4.2,40.5736,-74.1395,False
+Queens,Parking,2024-11-18,4,17.2,40.7257,-73.7838,False
+Manhattan,Water,2024-01-02,2,12.3,40.7456,-73.9971,True
+Brooklyn,Noise,2024-01-04,2,20.2,40.6356,-73.9665,False
+Queens,Parking,2024-02-20,2,20.9,40.6813,-73.7689,False
+Manhattan,Street,2024-08-12,4,6.1,40.8094,-73.9667,False
+Queens,Water,2024-11-06,5,5.0,40.7121,-73.7353,False
+Bronx,Heat,2024-11-04,4,2.5,40.8669,-73.8809,False
+Bronx,Water,2024-08-15,2,5.6,40.8295,-73.9431,False
+Queens,Parking,2024-08-21,4,5.3,40.705,-73.8009,True
+Bronx,Noise,2024-12-27,4,9.2,40.8886,-73.8626,False
+Queens,Parking,2024-12-12,3,19.5,40.6908,-73.7794,False
+Manhattan,Parking,2024-01-26,1,6.5,40.726,-73.9688,False
+Bronx,Parking,2024-07-23,2,13.8,40.8622,-73.8956,False
+Queens,Noise,2024-05-13,5,7.7,40.6858,-73.7459,False
+Queens,Street,2024-02-19,3,4.1,40.7068,-73.8108,False
+Staten Is.,Street,2024-10-17,1,10.4,40.6073,-74.1295,True
+Staten Is.,Parking,2024-07-16,5,1.0,40.5554,-74.1595,False
+Queens,Water,2024-08-29,3,10.1,40.7464,-73.8268,False
+Staten Is.,Street,2024-07-07,2,9.5,40.5596,-74.1084,True
+Bronx,Parking,2024-01-25,1,26.5,40.8947,-73.9462,True
+Staten Is.,Parking,2024-11-12,3,3.4,40.6198,-74.1764,False
+Staten Is.,Parking,2024-05-26,3,6.8,40.5659,-74.1378,False
+Queens,Heat,2024-03-21,1,38.2,40.7136,-73.8015,True
+Staten Is.,Heat,2024-08-20,5,4.1,40.555,-74.1282,True
+Queens,Heat,2024-04-20,3,11.0,40.726,-73.7938,False
+Staten Is.,Parking,2024-09-08,1,42.9,40.6145,-74.1644,False
+Staten Is.,Water,2024-07-05,1,22.5,40.5366,-74.0858,False
+Manhattan,Street,2024-06-13,2,14.6,40.8075,-73.9773,False
+Staten Is.,Water,2024-02-06,4,9.6,40.5403,-74.1555,False
+Staten Is.,Heat,2024-03-09,4,9.2,40.5542,-74.1832,False
+Brooklyn,Parking,2024-11-11,5,9.3,40.5964,-73.9732,True
+Bronx,Water,2024-12-18,4,5.4,40.9131,-73.8512,False
+Bronx,Noise,2024-07-20,5,3.4,40.8518,-73.8538,False
+Bronx,Heat,2024-06-19,2,36.7,40.8573,-73.8706,False
+Manhattan,Heat,2024-03-06,3,7.5,40.7597,-73.9917,False
+Bronx,Water,2024-09-18,4,7.4,40.882,-73.85,True
+Brooklyn,Street,2024-08-24,2,33.4,40.5869,-74.0018,True
+Brooklyn,Heat,2024-07-14,3,0.5,40.6508,-73.9609,True
+Queens,Water,2024-04-07,4,3.8,40.7862,-73.7982,False
+Brooklyn,Noise,2024-01-30,5,0.4,40.6385,-73.976,False
+Staten Is.,Street,2024-12-19,5,8.8,40.5805,-74.146,False
+Bronx,Noise,2024-03-27,2,41.5,40.8702,-73.8906,False
+Staten Is.,Parking,2024-08-26,4,4.3,40.5557,-74.1747,False
+Manhattan,Street,2024-01-24,4,7.3,40.7807,-73.9164,False
+Brooklyn,Heat,2024-09-06,5,6.6,40.6788,-73.9283,False
+Bronx,Parking,2024-03-10,4,0.8,40.8558,-73.8345,False
+Brooklyn,Street,2024-09-12,2,7.5,40.6611,-73.9489,False
+Manhattan,Parking,2024-03-14,4,6.4,40.7695,-73.9415,False
+Bronx,Parking,2024-06-29,1,5.5,40.8595,-73.847,False
+Bronx,Noise,2024-05-31,2,6.5,40.8517,-73.834,True
+Bronx,Street,2024-07-06,3,14.3,40.8937,-73.7993,False
+Queens,Water,2024-04-27,4,7.2,40.7417,-73.7972,False
+Bronx,Water,2024-05-03,1,7.5,40.8427,-73.8626,False
+Bronx,Heat,2024-05-12,4,2.2,40.7766,-73.8719,False
+Manhattan,Parking,2024-08-20,1,27.9,40.8015,-74.0758,False
+Brooklyn,Noise,2024-10-25,2,2.8,40.6727,-73.9922,False
+Manhattan,Heat,2024-05-13,1,10.3,40.7525,-73.9697,False
+Staten Is.,Parking,2024-01-08,1,18.2,40.52,-74.1313,False
+Staten Is.,Water,2024-03-12,2,19.0,40.5457,-74.1675,True
+Manhattan,Heat,2024-02-07,5,2.4,40.8078,-73.9362,False
+Queens,Water,2024-08-17,3,5.2,40.6881,-73.7517,True
+Staten Is.,Parking,2024-10-21,4,5.5,40.5662,-74.1626,False
+Manhattan,Street,2024-03-18,2,7.0,40.7866,-73.9275,False
+Queens,Street,2024-07-13,2,8.1,40.7567,-73.7376,False
+Brooklyn,Noise,2024-06-23,5,10.7,40.6495,-73.9362,False
+Queens,Noise,2024-06-09,4,14.2,40.717,-73.8196,False
+Brooklyn,Noise,2024-11-19,3,8.8,40.6335,-73.9061,False
+Bronx,Street,2024-04-07,2,12.4,40.8989,-73.875,False
+Queens,Parking,2024-08-15,5,4.8,40.752,-73.8014,False
+Manhattan,Noise,2024-07-16,3,15.9,40.7771,-73.9666,False
+Brooklyn,Noise,2024-11-15,1,15.6,40.6081,-73.9662,False
+Bronx,Parking,2024-03-21,5,8.0,40.8263,-73.8379,False
+Brooklyn,Parking,2024-12-06,3,11.7,40.6674,-73.9267,False
+Staten Is.,Heat,2024-11-09,3,19.8,40.5584,-74.1135,True
+Manhattan,Noise,2024-06-12,2,19.2,40.8068,-73.9526,False
+Staten Is.,Heat,2024-10-27,2,7.5,40.5908,-74.1738,True
+Staten Is.,Noise,2024-08-24,4,6.7,40.5888,-74.1548,False
+Staten Is.,Street,2024-04-27,2,13.1,40.5996,-74.1237,False
+Bronx,Water,2024-11-07,3,3.3,40.865,-73.8822,False
+Bronx,Water,2024-01-09,1,14.4,40.8243,-73.7824,True
+Manhattan,Noise,2024-02-20,5,1.5,40.7702,-73.9773,False
+Brooklyn,Heat,2024-11-19,2,2.3,40.7202,-73.9676,False
+Staten Is.,Street,2024-10-16,4,7.8,40.5438,-74.1155,False
+Brooklyn,Water,2024-04-19,2,3.2,40.6358,-73.9276,False
+Bronx,Heat,2024-12-25,1,22.3,40.882,-73.8708,False
+Bronx,Noise,2024-08-27,1,11.6,40.8452,-73.8769,False
+Brooklyn,Street,2024-03-29,4,10.0,40.6256,-73.9372,False
+Queens,Water,2024-11-09,1,26.3,40.6803,-73.7649,False
+Bronx,Street,2024-12-27,4,6.7,40.8661,-73.8471,False
+Queens,Street,2024-10-18,3,12.0,40.7506,-73.799,False
+Brooklyn,Heat,2024-08-16,3,7.3,40.692,-73.937,True
+Brooklyn,Parking,2024-11-10,2,3.6,40.6516,-73.9247,False
+Queens,Water,2024-10-21,2,10.3,40.7513,-73.7671,False
+Staten Is.,Heat,2024-06-27,4,6.7,40.549,-74.2426,False
+Manhattan,Parking,2024-10-03,5,3.8,40.785,-73.9967,True
+Queens,Water,2024-11-03,5,4.9,40.6997,-73.8133,True
+Brooklyn,Noise,2024-01-13,4,1.6,40.6552,-73.9569,False
+Bronx,Parking,2024-06-17,2,12.0,40.8725,-73.8646,True
+Staten Is.,Heat,2024-12-07,1,74.1,40.6121,-74.1224,False
+Queens,Water,2024-04-06,3,3.1,40.6903,-73.7715,False
+Queens,Heat,2024-08-12,3,3.2,40.758,-73.7938,True
+Staten Is.,Street,2024-06-24,3,31.3,40.5658,-74.1493,False
+Manhattan,Street,2024-08-02,3,11.1,40.7492,-73.9172,False
+Bronx,Heat,2024-05-02,1,63.3,40.8449,-73.8884,False
+Manhattan,Noise,2024-08-20,2,22.7,40.7361,-73.9609,False
+Manhattan,Parking,2024-10-07,1,5.3,40.7801,-73.923,False
+Brooklyn,Noise,2024-09-26,5,10.5,40.6587,-73.9396,False
+Queens,Water,2024-10-30,5,4.7,40.714,-73.8513,False
+Brooklyn,Water,2024-04-02,5,2.2,40.6661,-73.9388,False
+Queens,Parking,2024-02-21,3,10.7,40.7106,-73.8016,True
+Queens,Street,2024-07-16,5,5.3,40.7201,-73.7934,False
+Bronx,Street,2024-03-01,5,5.8,40.8068,-73.8385,False
+Manhattan,Heat,2024-08-17,2,3.4,40.7813,-73.9559,False
+Queens,Parking,2024-05-20,1,76.6,40.6945,-73.7979,True
+Bronx,Water,2024-09-19,5,3.6,40.8365,-73.8432,False
+Queens,Heat,2024-06-18,3,12.9,40.7172,-73.7769,False
+Staten Is.,Heat,2024-07-24,3,1.3,40.5857,-74.1468,False
+Staten Is.,Street,2024-12-15,5,1.3,40.5306,-74.141,True
+Queens,Parking,2024-08-17,5,5.9,40.6731,-73.7824,False
+Staten Is.,Heat,2024-12-09,5,7.1,40.5709,-74.1602,False
+Brooklyn,Noise,2024-03-29,1,11.6,40.6642,-73.9638,False
+Brooklyn,Noise,2024-12-18,1,33.4,40.6608,-73.9492,False
+Bronx,Parking,2024-03-19,3,3.9,40.8768,-73.8986,False
+Queens,Noise,2024-09-23,3,4.3,40.759,-73.8278,False
+Brooklyn,Street,2024-01-17,2,5.7,40.6649,-73.911,True
+Staten Is.,Water,2024-09-04,2,4.1,40.5794,-74.1572,False
+Manhattan,Water,2024-11-17,3,1.8,40.7491,-73.9707,False
+Staten Is.,Street,2024-04-08,4,5.2,40.5516,-74.1541,False
+Bronx,Noise,2024-02-27,4,10.2,40.836,-73.8693,False
+Bronx,Parking,2024-05-16,1,32.3,40.858,-73.8693,False
+Brooklyn,Parking,2024-01-25,2,40.2,40.6566,-73.948,False
+Bronx,Heat,2024-01-01,2,8.4,40.8501,-73.8941,True
+Manhattan,Water,2024-06-05,2,13.2,40.7754,-73.942,False
+Queens,Heat,2024-10-31,5,2.0,40.7389,-73.8108,False
+Queens,Water,2024-05-27,3,7.1,40.7262,-73.759,False
+Brooklyn,Noise,2024-04-10,3,12.9,40.6589,-74.0076,False
+Bronx,Parking,2024-03-22,5,4.9,40.8593,-73.9018,False
+Manhattan,Parking,2024-01-29,3,3.2,40.7636,-73.9402,False
+Queens,Noise,2024-05-23,4,2.1,40.6891,-73.7944,False
+Staten Is.,Water,2024-04-25,5,2.4,40.5947,-74.1701,False
+Staten Is.,Noise,2024-06-12,5,1.5,40.5925,-74.1387,False
+Brooklyn,Water,2024-04-27,2,3.3,40.6434,-73.9814,False
+Bronx,Parking,2024-08-03,3,7.5,40.8375,-73.8677,False
+Brooklyn,Street,2024-09-21,1,6.0,40.7184,-74.0165,True
+Staten Is.,Heat,2024-01-05,4,2.5,40.5572,-74.1636,False
+Manhattan,Street,2024-01-03,2,13.2,40.7735,-73.9895,False
+Staten Is.,Street,2024-04-11,1,3.1,40.588,-74.1338,True
+Queens,Noise,2024-03-24,1,30.0,40.6854,-73.7637,True
+Manhattan,Street,2024-02-02,1,8.0,40.7835,-73.9956,True
+Bronx,Heat,2024-11-23,1,5.5,40.9039,-73.8217,True
+Manhattan,Heat,2024-02-02,1,15.2,40.808,-73.9878,True
+Brooklyn,Water,2024-11-08,3,4.3,40.669,-74.0117,False
+Staten Is.,Water,2024-01-25,2,7.7,40.5978,-74.2214,False
+Bronx,Parking,2024-08-17,5,9.8,40.8534,-73.8238,False
+Bronx,Parking,2024-05-19,3,6.9,40.8788,-73.8726,False
+Queens,Water,2024-07-23,3,4.5,40.7153,-73.8094,False
+Queens,Water,2024-07-09,3,8.7,40.7073,-73.8124,False
+Staten Is.,Heat,2024-03-22,4,5.9,40.5831,-74.1828,True
+Manhattan,Heat,2024-02-07,4,2.0,40.8072,-73.9294,False
+Brooklyn,Water,2024-11-15,2,6.5,40.6599,-73.9525,False
+Brooklyn,Water,2024-09-23,4,2.9,40.6702,-73.8963,False
+Brooklyn,Noise,2024-10-04,3,2.1,40.5893,-73.956,False
+Queens,Water,2024-08-13,4,4.6,40.7558,-73.8605,False
+Manhattan,Water,2024-07-06,4,2.9,40.8502,-73.9447,False
+Brooklyn,Noise,2024-11-06,4,4.2,40.69,-73.961,False
+Brooklyn,Water,2024-02-28,3,6.9,40.6405,-73.9571,False
+Queens,Heat,2024-08-09,1,11.3,40.6945,-73.743,False
+Brooklyn,Parking,2024-03-19,5,10.0,40.6583,-73.9579,False
+Brooklyn,Water,2024-08-25,5,4.4,40.6204,-73.9151,False
+Brooklyn,Noise,2024-05-18,3,5.5,40.6718,-73.9501,False
+Staten Is.,Water,2024-06-04,3,6.9,40.5642,-74.1726,False
+Manhattan,Water,2024-04-30,1,47.2,40.8088,-73.9548,False
+Manhattan,Noise,2024-08-05,3,2.6,40.8209,-73.988,True
+Bronx,Street,2024-01-23,3,11.0,40.789,-73.8332,False
+Brooklyn,Parking,2024-10-08,4,1.9,40.6588,-73.9212,True
+Queens,Parking,2024-05-28,3,9.5,40.6991,-73.7881,False
+Queens,Heat,2024-12-23,1,6.2,40.6777,-73.7717,False
+Manhattan,Street,2024-06-12,1,16.0,40.7615,-73.9531,False
+Staten Is.,Street,2024-02-14,3,3.6,40.5734,-74.1583,False
+Brooklyn,Water,2024-04-14,4,3.4,40.681,-73.9231,False
+Bronx,Street,2024-06-16,5,7.3,40.8044,-73.8768,True
+Bronx,Parking,2024-05-20,5,7.9,40.8815,-73.8515,False
+Bronx,Heat,2024-04-06,3,6.4,40.9105,-73.8985,False
+Queens,Water,2024-05-01,1,11.5,40.7379,-73.7869,False
+Staten Is.,Heat,2024-09-24,5,7.2,40.5964,-74.1375,False
+Bronx,Parking,2024-05-17,3,2.3,40.8496,-73.8937,False
+Manhattan,Water,2024-02-26,5,1.0,40.7447,-73.9824,False
+Bronx,Noise,2024-08-13,4,4.5,40.866,-73.8859,False
+Staten Is.,Heat,2024-09-26,2,8.9,40.5915,-74.1281,False
+Bronx,Heat,2024-06-30,3,7.5,40.8719,-73.8915,False
+Queens,Noise,2024-09-21,3,6.4,40.7971,-73.7767,False
+Bronx,Parking,2024-03-13,2,48.4,40.8718,-73.8241,False
+Queens,Parking,2024-02-22,4,2.4,40.7328,-73.7792,True
+Staten Is.,Noise,2024-10-17,2,7.0,40.6269,-74.1982,False
+Queens,Noise,2024-10-15,4,2.7,40.6796,-73.7861,False
+Brooklyn,Parking,2024-07-06,3,12.4,40.6157,-73.9186,False
+Staten Is.,Heat,2024-06-26,3,3.4,40.5687,-74.1584,False
+Brooklyn,Street,2024-06-16,4,1.7,40.6304,-73.9165,False
+Queens,Water,2024-03-21,1,16.8,40.7408,-73.7713,False
+Staten Is.,Water,2024-09-17,3,3.9,40.5705,-74.1372,False
+Manhattan,Parking,2024-05-19,1,24.3,40.8322,-73.9776,False
+Queens,Heat,2024-10-01,1,2.2,40.7656,-73.8051,False
+Staten Is.,Noise,2024-06-10,5,6.8,40.6031,-74.1574,False
+Bronx,Street,2024-11-05,5,4.7,40.8384,-73.8679,False
+Bronx,Noise,2024-11-05,4,3.6,40.8685,-73.854,False
+Manhattan,Heat,2024-10-23,5,2.3,40.8043,-73.9571,True
+Bronx,Water,2024-04-08,4,6.4,40.818,-73.8787,False
+Staten Is.,Parking,2024-09-01,1,15.3,40.5905,-74.1477,False
+Staten Is.,Street,2024-10-02,2,12.7,40.6012,-74.1381,False
+Brooklyn,Parking,2024-09-20,2,30.1,40.6565,-73.9984,False
+Brooklyn,Noise,2024-11-16,4,5.0,40.6971,-73.9727,False
+Queens,Noise,2024-02-27,1,40.4,40.7564,-73.8136,False
+Manhattan,Heat,2024-08-27,4,7.4,40.7552,-73.9758,False
+Bronx,Heat,2024-09-12,5,2.3,40.8537,-73.8779,False
+Queens,Noise,2024-05-10,1,45.5,40.6949,-73.7974,False
+Queens,Parking,2024-04-02,5,6.5,40.7374,-73.8158,False
+Bronx,Street,2024-07-25,4,2.1,40.824,-73.8494,False
+Queens,Water,2024-04-04,1,24.4,40.7477,-73.7813,False
+Manhattan,Water,2024-08-02,3,20.6,40.7916,-74.0189,False
+Staten Is.,Heat,2024-02-13,2,18.5,40.6091,-74.1492,False
+Staten Is.,Water,2024-05-24,4,8.3,40.5756,-74.1834,False
+Queens,Water,2024-05-24,1,13.6,40.6763,-73.7385,False
+Brooklyn,Street,2024-09-24,3,6.4,40.703,-73.9632,False
+Brooklyn,Noise,2024-01-08,3,9.0,40.6448,-73.9614,False
+Queens,Parking,2024-05-12,3,3.5,40.7613,-73.787,False
+Bronx,Water,2024-08-27,5,0.7,40.8629,-73.8755,False
+Brooklyn,Heat,2024-06-30,5,11.0,40.6702,-73.9513,False
+Manhattan,Street,2024-09-30,1,11.1,40.8349,-73.9231,False
+Staten Is.,Street,2024-11-13,4,13.8,40.5902,-74.1427,False
+Queens,Parking,2024-10-10,1,16.8,40.762,-73.7645,False
+Staten Is.,Water,2024-05-02,1,9.1,40.5355,-74.1157,False
+Bronx,Parking,2024-02-17,3,2.4,40.8761,-73.8987,False
+Brooklyn,Noise,2024-02-01,5,7.9,40.6427,-73.8988,False
+Brooklyn,Heat,2024-08-21,3,5.0,40.646,-73.9288,False
+Queens,Street,2024-02-16,3,1.9,40.7203,-73.7608,False
+Manhattan,Water,2024-11-01,4,6.4,40.7904,-73.9954,False
+Brooklyn,Street,2024-07-30,3,6.4,40.6997,-73.925,False
+Queens,Water,2024-01-14,3,3.8,40.6644,-73.7771,False
+Queens,Street,2024-10-15,4,2.7,40.7213,-73.8056,False
+Staten Is.,Parking,2024-03-11,1,10.9,40.5585,-74.081,False
+Manhattan,Parking,2024-12-28,5,3.9,40.815,-73.9525,False
+Bronx,Heat,2024-04-07,2,6.4,40.8373,-73.8766,False
+Staten Is.,Parking,2024-07-19,3,2.3,40.5937,-74.1436,False
+Bronx,Water,2024-06-17,5,7.7,40.8381,-73.8421,True
+Bronx,Noise,2024-05-08,4,11.8,40.87,-73.8355,False
+Queens,Parking,2024-03-03,4,4.2,40.7504,-73.772,False
+Manhattan,Heat,2024-01-23,5,3.9,40.7681,-73.9329,False
+Queens,Noise,2024-07-15,1,38.5,40.7215,-73.7453,False
+Bronx,Parking,2024-12-24,3,3.7,40.8074,-73.9065,False
+Queens,Noise,2024-05-05,5,5.0,40.7292,-73.804,False
+Manhattan,Parking,2024-04-19,2,22.3,40.8057,-73.9976,False
+Staten Is.,Water,2024-08-27,2,8.0,40.5633,-74.1465,False
+Queens,Water,2024-12-30,5,0.5,40.7536,-73.7461,False
+Staten Is.,Noise,2024-07-12,4,1.6,40.5178,-74.1298,False
+Queens,Heat,2024-12-19,2,5.3,40.6645,-73.8208,False
+Staten Is.,Parking,2024-09-07,1,19.0,40.5384,-74.1582,False
+Bronx,Heat,2024-10-18,3,1.2,40.8355,-73.8385,False
+Queens,Heat,2024-03-30,5,0.9,40.7206,-73.8053,True
+Queens,Heat,2024-07-20,3,8.7,40.7176,-73.7923,False
+Brooklyn,Noise,2024-09-15,1,30.7,40.648,-73.9403,True
+Brooklyn,Street,2024-05-12,3,5.7,40.6717,-74.004,False
+Queens,Heat,2024-09-25,3,14.1,40.7058,-73.766,False
+Bronx,Heat,2024-05-21,4,10.3,40.8121,-73.8591,False
+Bronx,Street,2024-09-20,4,9.7,40.8127,-73.8523,False
+Staten Is.,Heat,2024-06-14,2,3.1,40.6434,-74.1788,False
+Queens,Noise,2024-01-25,3,21.2,40.6494,-73.8124,False
+Manhattan,Parking,2024-02-05,3,1.7,40.7747,-73.9873,True
+Queens,Parking,2024-12-11,1,14.9,40.7637,-73.7819,False
+Brooklyn,Water,2024-08-20,3,0.5,40.6645,-73.9473,False
+Queens,Parking,2024-07-29,1,24.5,40.6951,-73.7856,False
+Brooklyn,Parking,2024-10-08,1,16.4,40.6501,-73.8956,False
+Manhattan,Parking,2024-04-09,2,15.4,40.8059,-73.9302,False
+Bronx,Noise,2024-05-13,5,3.1,40.8862,-73.891,False
+Brooklyn,Noise,2024-06-07,1,6.3,40.623,-73.969,False
+Brooklyn,Street,2024-08-28,5,3.6,40.6728,-73.8979,False
+Manhattan,Heat,2024-07-07,2,2.4,40.7876,-73.9789,False
+Manhattan,Noise,2024-04-09,5,14.1,40.8131,-73.928,True
+Bronx,Noise,2024-07-07,1,3.6,40.8917,-73.8214,False
+Brooklyn,Parking,2024-05-16,4,7.7,40.6397,-73.9657,True
+Staten Is.,Parking,2024-03-31,3,2.4,40.5365,-74.1575,False
+Manhattan,Noise,2024-03-11,2,5.1,40.7919,-73.9669,False
+Manhattan,Street,2024-04-06,2,6.0,40.8333,-73.9953,False
+Bronx,Water,2024-07-15,3,11.1,40.8706,-73.8987,False
+Brooklyn,Heat,2024-05-12,3,6.6,40.6569,-73.9614,True
+Staten Is.,Noise,2024-06-03,4,5.3,40.652,-74.1238,False
+Manhattan,Street,2024-10-12,2,2.6,40.7488,-73.9828,False
+Bronx,Street,2024-09-10,2,17.3,40.8771,-73.8756,False
+Queens,Parking,2024-06-08,1,15.7,40.7029,-73.8034,False
+Queens,Street,2024-07-28,2,6.7,40.7215,-73.8303,True
+Brooklyn,Parking,2024-01-15,2,25.1,40.6527,-73.9049,False
+Bronx,Water,2024-05-29,5,7.4,40.8954,-73.9397,True
+Staten Is.,Street,2024-06-14,4,5.1,40.5519,-74.169,False
+Brooklyn,Street,2024-04-18,4,8.4,40.6339,-73.9326,False
+Staten Is.,Parking,2024-03-14,2,3.3,40.5322,-74.1913,False
+Brooklyn,Parking,2024-09-27,2,8.6,40.6646,-73.9313,False
+Brooklyn,Parking,2024-01-05,3,7.5,40.6363,-73.9118,False
+Queens,Parking,2024-12-22,3,4.7,40.7327,-73.8152,True
+Bronx,Noise,2024-12-22,4,2.8,40.8178,-73.8631,False
+Bronx,Parking,2024-08-16,5,3.6,40.8392,-73.9027,False
+Queens,Heat,2024-04-17,3,2.3,40.7512,-73.7742,False
+Staten Is.,Noise,2024-04-17,2,9.0,40.5748,-74.1468,True
+Staten Is.,Street,2024-07-15,5,8.5,40.5988,-74.1429,False
+Bronx,Street,2024-09-01,3,9.7,40.8658,-73.8284,False
+Bronx,Heat,2024-05-10,5,4.8,40.8394,-73.8553,False
+Brooklyn,Street,2024-06-09,2,6.2,40.6032,-73.909,False
+Queens,Noise,2024-01-20,2,35.5,40.7496,-73.7704,False
+Staten Is.,Street,2024-11-19,1,21.0,40.5851,-74.1854,False
+Staten Is.,Parking,2024-11-24,4,1.9,40.6095,-74.1416,False
+Brooklyn,Noise,2024-04-05,3,25.2,40.5896,-73.9347,False
+Staten Is.,Water,2024-12-07,2,36.3,40.5304,-74.1928,True
+Brooklyn,Heat,2024-11-05,3,7.1,40.5857,-73.9094,False
+Bronx,Water,2024-03-09,1,31.5,40.8237,-73.8674,False
+Manhattan,Parking,2024-02-25,5,5.5,40.8113,-73.9584,False
+Bronx,Parking,2024-06-01,3,7.6,40.867,-73.8963,False
+Queens,Street,2024-09-09,2,17.8,40.719,-73.7872,False
+Staten Is.,Noise,2024-05-16,4,2.9,40.5839,-74.1404,False
+Bronx,Noise,2024-09-24,4,3.0,40.8728,-73.8792,False
+Bronx,Parking,2024-03-02,5,1.7,40.8409,-73.867,False
+Bronx,Street,2024-12-04,4,6.8,40.8619,-73.933,False
+Bronx,Parking,2024-08-29,1,20.1,40.8542,-73.8286,False
+Manhattan,Noise,2024-04-01,3,6.3,40.7144,-74.0029,False
+Manhattan,Noise,2024-10-12,4,10.0,40.7685,-74.0349,False
+Staten Is.,Parking,2024-05-29,5,2.6,40.6208,-74.1782,False
+Manhattan,Noise,2024-10-04,3,5.9,40.7681,-73.9945,False
+Staten Is.,Street,2024-09-13,5,5.7,40.5757,-74.1331,False
+Queens,Heat,2024-09-03,1,67.0,40.7018,-73.8168,False
+Staten Is.,Heat,2024-02-14,2,33.2,40.5655,-74.1409,True
+Bronx,Parking,2024-01-07,5,6.7,40.8837,-73.8982,False
+Manhattan,Noise,2024-09-12,1,22.2,40.772,-73.9032,False
+Staten Is.,Heat,2024-03-24,4,8.1,40.5493,-74.1331,True
+Queens,Noise,2024-01-25,2,16.4,40.6267,-73.7308,False
+Brooklyn,Heat,2024-07-06,1,40.1,40.6328,-73.9799,False
+Staten Is.,Street,2024-12-07,1,19.7,40.521,-74.1295,True
+Queens,Parking,2024-09-13,5,1.1,40.6653,-73.8181,False
+Bronx,Heat,2024-04-19,5,6.6,40.8739,-73.8521,False
+Bronx,Water,2024-05-21,1,14.0,40.8713,-73.8491,False
+Brooklyn,Noise,2024-09-11,4,5.1,40.5925,-73.9973,False
+Manhattan,Street,2024-06-12,1,11.0,40.8055,-74.0036,True
+Bronx,Street,2024-07-22,5,4.8,40.8638,-73.9045,False
+Bronx,Street,2024-11-02,2,2.9,40.8265,-73.9146,False
+Bronx,Heat,2024-01-21,1,16.0,40.872,-73.8914,False
+Brooklyn,Heat,2024-01-09,5,6.7,40.6012,-73.9783,False
+Brooklyn,Parking,2024-11-20,5,3.4,40.6139,-73.9929,False
+Brooklyn,Heat,2024-04-08,1,15.6,40.6068,-73.9466,False
+Manhattan,Water,2024-10-27,2,23.9,40.7467,-73.9532,True
+Queens,Water,2024-04-15,5,17.6,40.7464,-73.829,False
+Brooklyn,Noise,2024-11-05,2,9.0,40.61,-73.9663,False
+Manhattan,Heat,2024-12-28,4,4.1,40.7455,-73.9693,False
+Queens,Heat,2024-12-02,5,1.7,40.6914,-73.7965,True
+Bronx,Water,2024-03-24,1,25.8,40.8559,-73.8906,True
+Staten Is.,Heat,2024-07-07,3,13.3,40.5698,-74.1253,False
+Staten Is.,Street,2024-01-18,3,8.5,40.6059,-74.1242,False
+Brooklyn,Parking,2024-04-07,5,2.8,40.6287,-73.9292,True
+Staten Is.,Street,2024-06-01,3,9.9,40.5413,-74.1559,False
+Brooklyn,Parking,2024-01-14,5,4.2,40.6349,-73.89,True
+Staten Is.,Street,2024-08-25,3,5.1,40.581,-74.0974,False
+Queens,Street,2024-03-11,3,2.7,40.692,-73.8017,False
+Brooklyn,Heat,2024-02-25,4,6.9,40.6582,-73.9533,False
+Bronx,Water,2024-08-25,5,4.2,40.9043,-73.834,True
+Brooklyn,Noise,2024-11-02,4,12.1,40.6324,-73.9736,False
+Queens,Heat,2024-12-29,4,3.0,40.7211,-73.7777,False
+Brooklyn,Parking,2024-03-12,5,4.4,40.6903,-73.9483,False
+Manhattan,Parking,2024-10-10,4,7.1,40.7603,-73.9908,False
+Bronx,Heat,2024-09-14,1,13.4,40.8243,-73.8766,False
+Manhattan,Parking,2024-10-23,5,3.2,40.7468,-74.0168,False
+Bronx,Water,2024-02-29,5,3.3,40.8616,-73.886,False
+Staten Is.,Street,2024-06-23,2,13.6,40.595,-74.2096,False
+Manhattan,Heat,2024-11-17,3,19.5,40.7751,-73.9013,False
+Staten Is.,Parking,2024-07-28,4,7.4,40.5808,-74.1045,False
+Bronx,Parking,2024-03-14,4,1.3,40.8877,-73.8329,False
+Bronx,Street,2024-01-01,4,2.4,40.8755,-73.8607,False
+Bronx,Heat,2024-09-23,5,3.9,40.8074,-73.8398,False
+Manhattan,Water,2024-01-25,1,33.7,40.7791,-73.9316,False
+Staten Is.,Water,2024-11-02,5,4.8,40.5825,-74.1193,True
+Queens,Noise,2024-08-28,3,10.6,40.7409,-73.7622,False
+Manhattan,Water,2024-04-03,2,5.4,40.7726,-73.9971,False
+Staten Is.,Street,2024-03-18,2,47.1,40.5599,-74.1369,False
+Bronx,Street,2024-02-03,3,5.4,40.8355,-73.8858,False
+Bronx,Noise,2024-05-03,2,2.5,40.7959,-73.9052,False
+Queens,Parking,2024-08-01,5,4.2,40.7184,-73.8241,True
+Staten Is.,Water,2024-04-21,3,21.5,40.5613,-74.137,True
+Brooklyn,Street,2024-07-01,5,1.8,40.6632,-73.9182,False
+Brooklyn,Parking,2024-08-17,4,7.8,40.6183,-73.9909,True
+Manhattan,Noise,2024-06-23,2,14.2,40.766,-73.9175,False
+Queens,Parking,2024-04-01,3,18.7,40.6897,-73.7458,False
+Brooklyn,Heat,2024-10-12,5,5.2,40.6171,-73.9613,False
+Staten Is.,Noise,2024-09-19,4,9.4,40.6,-74.1638,True
+Manhattan,Street,2024-06-18,3,8.5,40.7651,-73.9721,False
+Queens,Street,2024-03-06,4,7.3,40.7323,-73.7604,False
+Queens,Parking,2024-06-30,2,4.7,40.6854,-73.8014,False
+Manhattan,Water,2024-05-11,2,3.9,40.7818,-74.0031,False
+Manhattan,Heat,2024-06-26,4,6.1,40.7282,-73.9596,False
+Staten Is.,Water,2024-02-15,1,20.3,40.5645,-74.2119,False
+Brooklyn,Street,2024-06-14,3,7.6,40.6338,-73.9457,False
+Staten Is.,Heat,2024-01-19,3,15.6,40.5963,-74.1152,False
+Queens,Heat,2024-05-28,3,2.1,40.7242,-73.7808,True
+Bronx,Water,2024-09-12,2,9.9,40.8435,-73.8466,False
+Staten Is.,Water,2024-02-28,2,22.0,40.6039,-74.1352,False
+Brooklyn,Water,2024-02-16,1,6.6,40.6545,-73.9281,False
+Bronx,Water,2024-04-17,3,3.0,40.8649,-73.8656,False
+Brooklyn,Street,2024-11-26,4,0.8,40.6717,-73.9749,False
+Bronx,Street,2024-04-06,1,31.8,40.8467,-73.8767,True
+Brooklyn,Water,2024-12-09,1,28.0,40.6399,-73.9522,False
+Bronx,Parking,2024-03-31,1,4.9,40.8585,-73.8322,False
+Manhattan,Water,2024-01-21,5,8.8,40.7662,-73.9212,False
+Staten Is.,Street,2024-10-12,4,3.4,40.5903,-74.1374,False
+Staten Is.,Street,2024-02-13,1,15.4,40.6119,-74.1726,False
+Staten Is.,Noise,2024-02-11,3,9.5,40.6043,-74.1719,False
+Brooklyn,Street,2024-07-13,3,11.7,40.6372,-73.9556,False
+Brooklyn,Street,2024-03-15,4,2.2,40.6101,-73.9083,False
+Queens,Water,2024-08-08,2,12.1,40.717,-73.78,False
+Staten Is.,Water,2024-07-11,5,3.8,40.5749,-74.1517,False
+Staten Is.,Water,2024-09-17,3,17.2,40.6118,-74.173,False
+Brooklyn,Water,2024-04-24,2,5.4,40.6372,-73.9235,True
+Queens,Street,2024-04-12,3,17.0,40.7124,-73.7813,False
+Manhattan,Noise,2024-03-28,2,1.7,40.8006,-73.9715,False
+Manhattan,Heat,2024-09-30,3,10.4,40.7643,-73.9669,False
+Manhattan,Water,2024-05-16,2,27.5,40.7738,-73.9194,False
+Manhattan,Parking,2024-11-07,3,10.8,40.8299,-73.9748,False
+Staten Is.,Noise,2024-07-02,2,24.1,40.6232,-74.0993,False
+Queens,Noise,2024-10-16,3,13.5,40.7375,-73.7527,False
+Bronx,Noise,2024-09-03,4,1.3,40.8566,-73.8684,False
+Queens,Parking,2024-09-09,4,3.0,40.6896,-73.7635,True
+Brooklyn,Heat,2024-12-20,2,22.5,40.6653,-73.9537,True
+Brooklyn,Water,2024-06-14,3,8.2,40.6503,-73.9749,True
+Manhattan,Water,2024-11-07,2,9.1,40.7852,-73.978,False
+Staten Is.,Water,2024-10-27,2,26.0,40.5631,-74.1772,False
+Bronx,Noise,2024-06-05,4,7.1,40.8482,-73.8547,False
+Manhattan,Street,2024-09-11,4,1.8,40.7731,-73.9696,False
+Brooklyn,Parking,2024-06-13,1,21.5,40.658,-73.933,False
+Staten Is.,Water,2024-08-31,2,7.3,40.6213,-74.1252,False
+Manhattan,Parking,2024-05-31,1,8.5,40.7894,-74.0636,False
+Staten Is.,Heat,2024-06-28,5,3.3,40.5289,-74.1407,False
+Staten Is.,Noise,2024-03-28,4,3.5,40.5495,-74.2041,True
+Bronx,Parking,2024-08-20,1,19.7,40.8012,-73.865,False
+Queens,Street,2024-12-13,4,4.7,40.6948,-73.8163,False
+Queens,Heat,2024-05-09,2,7.6,40.7353,-73.7869,False
+Staten Is.,Parking,2024-01-26,2,6.8,40.5906,-74.109,False
+Staten Is.,Parking,2024-09-15,3,6.7,40.5606,-74.2012,True
+Queens,Noise,2024-03-15,4,4.4,40.7265,-73.7843,False
+Staten Is.,Heat,2024-09-11,4,5.0,40.5559,-74.1524,True
+Queens,Water,2024-08-29,1,19.2,40.676,-73.8468,False
+Brooklyn,Water,2024-12-12,4,2.4,40.6065,-73.9306,False
+Staten Is.,Water,2024-08-03,3,7.7,40.5528,-74.149,False
+Queens,Street,2024-02-13,5,1.5,40.7611,-73.8053,False
+Queens,Street,2024-04-11,3,9.8,40.6784,-73.8117,False
+Staten Is.,Street,2024-04-09,5,11.9,40.6158,-74.0536,False
+Queens,Parking,2024-12-07,2,9.2,40.7583,-73.8018,False
+Brooklyn,Street,2024-11-09,4,5.3,40.6431,-74.004,False
+Brooklyn,Heat,2024-05-29,2,38.5,40.6471,-73.9779,True
+Brooklyn,Heat,2024-11-16,5,3.7,40.6302,-73.961,False
+Bronx,Parking,2024-08-05,4,1.9,40.8478,-73.8815,False
+Bronx,Parking,2024-04-24,4,6.7,40.8682,-73.8724,True
+Queens,Street,2024-02-03,3,3.0,40.7188,-73.8214,True
+Queens,Noise,2024-11-29,4,8.0,40.7483,-73.7738,False
+Bronx,Street,2024-11-21,1,6.6,40.884,-73.8845,True
+Brooklyn,Heat,2024-09-29,2,10.9,40.6588,-73.9908,False
+Staten Is.,Street,2024-02-07,4,6.2,40.5883,-74.1745,False
+Staten Is.,Noise,2024-07-22,1,43.1,40.5766,-74.1615,True
+Manhattan,Parking,2024-05-23,1,27.0,40.7888,-73.9445,False
+Staten Is.,Street,2024-09-06,3,2.5,40.5451,-74.1355,False
+Brooklyn,Noise,2024-11-19,5,4.7,40.6606,-73.9601,False
+Staten Is.,Street,2024-07-14,2,10.8,40.5846,-74.1494,True
+Staten Is.,Street,2024-12-10,2,27.2,40.5526,-74.1435,False
+Manhattan,Noise,2024-03-11,4,3.6,40.8429,-73.9088,True
+Bronx,Noise,2024-11-25,2,8.3,40.8193,-73.8885,False
+Brooklyn,Noise,2024-11-14,4,6.9,40.6224,-73.936,False
+Manhattan,Water,2024-10-29,2,8.4,40.7868,-73.9482,False
+Brooklyn,Noise,2024-12-13,1,8.2,40.5904,-73.9786,False
+Bronx,Street,2024-03-26,5,2.2,40.8247,-73.8643,False
+Bronx,Water,2024-03-11,3,7.4,40.8028,-73.8651,False
+Staten Is.,Noise,2024-01-12,2,9.9,40.5495,-74.1641,False
+Brooklyn,Street,2024-10-03,3,2.9,40.6444,-73.933,False
+Manhattan,Heat,2024-06-13,4,4.2,40.788,-73.9391,False
+Manhattan,Parking,2024-04-16,1,21.1,40.8115,-73.9361,False
+Staten Is.,Street,2024-01-24,5,0.4,40.6025,-74.1558,False
+Bronx,Heat,2024-04-06,3,1.5,40.8839,-73.8643,False
+Brooklyn,Parking,2024-12-16,5,0.5,40.666,-73.8795,True
+Manhattan,Noise,2024-01-26,4,0.9,40.7644,-74.0031,False
+Staten Is.,Street,2024-01-03,1,23.3,40.6118,-74.1433,False
+Manhattan,Noise,2024-04-01,5,4.4,40.7638,-73.9433,False
+Queens,Noise,2024-04-28,3,1.0,40.7,-73.7855,False
+Staten Is.,Heat,2024-03-13,5,6.4,40.6242,-74.1303,False
+Queens,Street,2024-03-15,4,9.6,40.742,-73.7848,False
+Staten Is.,Water,2024-07-17,2,10.1,40.5849,-74.1274,False
+Staten Is.,Heat,2024-01-05,4,6.5,40.6009,-74.1115,True
+Brooklyn,Noise,2024-12-24,2,13.1,40.6747,-73.9566,False
+Manhattan,Street,2024-07-01,2,5.9,40.7375,-73.9641,True
+Brooklyn,Street,2024-05-14,3,17.4,40.6455,-73.9517,False
+Manhattan,Water,2024-01-28,2,4.5,40.743,-73.9821,True
+Bronx,Heat,2024-03-12,5,2.8,40.852,-73.8706,False
+Queens,Street,2024-11-24,1,1.2,40.6982,-73.8239,False
+Brooklyn,Noise,2024-05-02,2,16.6,40.6891,-73.9277,True
+Staten Is.,Water,2024-09-07,1,11.6,40.5939,-74.0989,False
+Queens,Water,2024-02-29,4,14.3,40.694,-73.7389,False
+Brooklyn,Noise,2024-05-15,3,18.0,40.6478,-73.9117,True
+Manhattan,Parking,2024-04-29,1,1.6,40.742,-73.9989,False
+Queens,Street,2024-11-03,1,17.1,40.7196,-73.7444,False
+Manhattan,Heat,2024-05-25,4,4.8,40.7947,-73.9915,False
+Brooklyn,Water,2024-10-17,2,6.9,40.6562,-73.9516,False
+Bronx,Heat,2024-12-02,5,1.7,40.7905,-73.8146,False
+Manhattan,Street,2024-04-29,2,7.4,40.7683,-74.0022,True
+Manhattan,Noise,2024-03-18,3,6.7,40.7936,-73.9448,False
+Queens,Noise,2024-11-05,1,18.5,40.7275,-73.7816,True
+Bronx,Noise,2024-12-04,3,5.2,40.8831,-73.8746,False
+Bronx,Heat,2024-12-05,1,25.6,40.8098,-73.8963,False
+Queens,Heat,2024-02-18,2,7.9,40.734,-73.7773,False
+Queens,Water,2024-08-14,5,9.6,40.6988,-73.8039,False
+Queens,Street,2024-02-12,5,2.0,40.7242,-73.7586,False
+Bronx,Street,2024-05-08,3,6.1,40.8605,-73.8333,False
+Queens,Noise,2024-05-28,5,5.4,40.7389,-73.8314,False
+Staten Is.,Parking,2024-11-24,2,14.5,40.561,-74.1652,False
+Queens,Street,2024-09-24,3,16.3,40.7238,-73.7996,False
+Manhattan,Parking,2024-12-10,4,3.1,40.7433,-74.0055,True
+Manhattan,Heat,2024-10-31,5,7.4,40.736,-74.0035,False
+Manhattan,Heat,2024-05-06,1,18.6,40.7949,-73.9673,False
+Bronx,Heat,2024-11-11,3,1.0,40.8467,-73.8762,False
+Queens,Street,2024-02-01,2,17.2,40.6697,-73.8396,False
+Manhattan,Noise,2024-03-14,2,3.0,40.7528,-73.9861,False
+Manhattan,Noise,2024-11-12,5,2.6,40.7788,-73.9544,False
+Staten Is.,Water,2024-01-21,4,6.8,40.6249,-74.1862,False
+Queens,Street,2024-08-30,5,2.4,40.7496,-73.8177,False
+Staten Is.,Water,2024-11-21,1,8.9,40.6022,-74.1024,False
+Bronx,Noise,2024-03-25,4,6.9,40.7947,-73.8305,False
+Staten Is.,Noise,2024-09-11,5,7.6,40.5753,-74.1986,False
+Manhattan,Noise,2024-07-25,1,11.7,40.7926,-74.0105,False
+Manhattan,Noise,2024-09-13,5,2.9,40.7901,-73.9587,True
+Manhattan,Water,2024-04-22,2,12.6,40.7907,-74.0057,False
+Bronx,Noise,2024-02-12,3,6.7,40.8413,-73.8776,False
+Staten Is.,Water,2024-12-01,1,15.6,40.631,-74.1635,False
+Queens,Street,2024-02-07,5,12.0,40.7625,-73.7732,False
+Bronx,Street,2024-05-04,2,7.5,40.8454,-73.9459,False
+Staten Is.,Heat,2024-01-01,5,1.8,40.5489,-74.2161,False
+Manhattan,Street,2024-03-12,1,14.0,40.8398,-74.0068,True
+Bronx,Noise,2024-08-25,1,24.8,40.8317,-73.8396,False
+Queens,Street,2024-01-16,1,10.6,40.7541,-73.7946,False
+Bronx,Parking,2024-03-20,4,2.1,40.9055,-73.9212,False
+Manhattan,Noise,2024-05-05,4,1.1,40.75,-73.9552,False
+Queens,Heat,2024-05-01,2,34.0,40.727,-73.7688,False
+Bronx,Street,2024-12-27,1,28.2,40.8378,-73.8774,False
+Queens,Noise,2024-03-09,2,3.4,40.7337,-73.7999,False
+Manhattan,Noise,2024-03-20,1,27.0,40.7879,-73.9569,False
+Brooklyn,Street,2024-10-03,4,6.4,40.7066,-73.9137,False
+Brooklyn,Street,2024-06-16,5,8.3,40.6659,-73.9454,False
+Bronx,Heat,2024-06-30,3,2.8,40.848,-73.854,False
+Bronx,Water,2024-12-20,2,20.8,40.882,-73.8714,False
+Brooklyn,Noise,2024-03-16,3,11.0,40.6401,-73.9614,False
+Staten Is.,Water,2024-01-03,2,3.4,40.5673,-74.1775,False
+Manhattan,Street,2024-11-17,1,21.6,40.8454,-73.9623,False
+Bronx,Heat,2024-04-17,1,22.3,40.8236,-73.879,False
+Queens,Heat,2024-04-26,4,5.9,40.7036,-73.7973,False
+Manhattan,Water,2024-10-26,4,0.5,40.7796,-73.9421,False
+Staten Is.,Parking,2024-08-15,3,7.6,40.5465,-74.1354,False
+Queens,Noise,2024-02-04,4,3.5,40.655,-73.7639,False
+Staten Is.,Heat,2024-11-21,1,33.3,40.6099,-74.1973,False
+Queens,Noise,2024-12-04,3,7.3,40.6947,-73.7732,False
+Bronx,Noise,2024-01-04,4,3.0,40.832,-73.8877,False
+Manhattan,Heat,2024-10-31,4,2.0,40.7671,-73.9942,False
+Manhattan,Parking,2024-03-05,1,15.3,40.7488,-73.9956,False
+Staten Is.,Street,2024-02-22,1,23.1,40.546,-74.1137,False
