@@ -23,11 +23,11 @@ Load it directly.
 
 ```python
 import pandas as pd
-url = "https://raw.githubusercontent.com/btmoriarty/fa550-data/main/311-sample.csv"
+url = "https://raw.githubusercontent.com/hosl-research/fa550-data/main/311-sample.csv"
 df = pd.read_csv(url, parse_dates=["date"])
 ```
 
 ```r
-url <- "https://raw.githubusercontent.com/btmoriarty/fa550-data/main/311-sample.csv"
+url <- "https://raw.githubusercontent.com/hosl-research/fa550-data/main/311-sample.csv"
 df <- read.csv(url)
 ```
